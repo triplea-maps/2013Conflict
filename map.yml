@@ -1,0 +1,7 @@
+map_name: 2013Conflict
+games:
+- game_name: 2013 Conflict FFA
+  file_name: 2013 Conflict FFA.xml
+- game_name: 2013 Conflict
+  file_name: 2013 Conflict.xml
+version: 0
