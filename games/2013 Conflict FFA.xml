@@ -1388,19 +1388,19 @@
                     <attachment name="territoryAttachment" attachTo="Borneo-Celebes" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
                         <option name="production" value="1"/>
                    </attachment>
-			 <attachment name="canalattachment1" attachTo="19 Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+			 <attachment name="canalAttachment1" attachTo="19 Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
 			     <option name="canalName" value="PanamaCanal"/>
 			     <option name="landTerritories" value="Central America:Colombia"/>
 			 </attachment>
-			 <attachment name="canalattachment1" attachTo="20 Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+			 <attachment name="canalAttachment1" attachTo="20 Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
 			     <option name="canalName" value="PanamaCanal"/>
 			     <option name="landTerritories" value="Central America:Colombia"/>
 			 </attachment>
-			 <attachment name="canalattachment2" attachTo="15 Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+			 <attachment name="canalAttachment2" attachTo="15 Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
 			     <option name="canalName" value="SuezCanal"/>
 			     <option name="landTerritories" value="Egypt-Sudan:Syria-Israel"/>
 			 </attachment>
-			 <attachment name="canalattachment2" attachTo="34 Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
+			 <attachment name="canalAttachment2" attachTo="34 Sea Zone" javaClass="games.strategy.triplea.attachments.CanalAttachment" type="territory">
 			     <option name="canalName" value="SuezCanal"/>
 			     <option name="landTerritories" value="Egypt-Sudan:Syria-Israel"/>
 			 </attachment>
